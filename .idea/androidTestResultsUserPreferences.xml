@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidTestResultsUserPreferences">
+    <option name="androidTestResultsTableState">
+      <map>
+        <entry key="-1571581032">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="934656f4" value="120" />
+                  <entry key="Duration" value="144" />
+                  <entry key="Tests" value="414" />
+                  <entry key="Xiaomi" value="120" />
+                  <entry key="Xiaomi&#10; POCO M2 Pro" value="174" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
